@@ -6,7 +6,7 @@ We are a boutique consultancy dedicated to revolutionizing software development 
 
 ## About Us
 
-At Higher Level Dev, we believe in developing software at a higher level—using natural language to define specifications and allowing AI agents to handle the coding details. Our **Higher Level Dev Kit** empowers developers to:
+At Higher Level Dev, we believe in developing software at a higher level—using natural language to define specifications and allowing AI agents to handle the coding details. Our **[Higher Level Dev Kit](https://github.com/HigherLevelDev/hldk)** empowers developers to:
 
 - **Supercharge productivity**: Automate code generation, refactoring, and testing.
 - **Leverage AI agents**: Transform concise, natural language specs into working code using LLM-powered agents.
